@@ -2,7 +2,7 @@
 
 We don't make cheat's. We don't sell anything.
 
-We have a [Discord server](https://discord.gg/GV4ejwnB) where you can find out more.
+We have a [Discord server](https://discord.gg/MphEFCxfXq) where you can find out more.
 
 [Private server](https://github.com/DSO-Reconstruction/DSOR_Server) in very early phase:
 <details>
