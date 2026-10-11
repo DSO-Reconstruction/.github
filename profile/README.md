@@ -1,3 +1,7 @@
+<p align="center">
+<img  alt="dsor_logo" src="https://github.com/user-attachments/assets/47dba60c-a08b-45e4-b1bc-cf394e38d295" />
+</p>
+
 **DSO Reconstruction** is a project by group of Drakensang Online enjoyers (not necesesarily in it's current state) with aim of reverse engineering things related with DSO.
 
 We don't make cheat's. We don't sell anything.
